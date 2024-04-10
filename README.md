@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋 I'm Jasper 
 
 <!--
 **Trapsta/trapsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 Software Engineer | 🗡 AI/ML Jedi Apprentice
+
+📅 Schedule a Call: [Calendly](https://calendly.com/jasperkinoti/30min)
+🔗 LinkedIn: [linkedin.com/in/jasperkinoti](https://www.linkedin.com/in/jasperkinoti/)
