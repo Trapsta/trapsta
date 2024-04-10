@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Software Engineer  |  🗡 AI/ML Padawan
+🚀 Software Engineer Jedi  | 🔥 Front-end Engineer Master Jedi |  🗡 AI/ML Padawan
 
 - 📅 Schedule a Call: [Calendly](https://calendly.com/jasperkinoti/30min)
 - 🔗 LinkedIn: [linkedin.com/in/jasperkinoti](https://www.linkedin.com/in/jasperkinoti/)
