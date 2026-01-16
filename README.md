@@ -1,8 +1,8 @@
 # Hi, I'm Jasper 👋
 
-## Machine Learning Engineer
+## Senior Software Engineer
 
-ML engineer combining 7+ years of production software experience with deep learning expertise. I build ML systems that actually ship to production.
+Software engineer combining 7+ years of production software experience with ML expertise. I build scalable systems that actually ship to production.
 
 ### What I'm Working On
 
